@@ -4,6 +4,7 @@
   "button_text_contents": {
     "after_connecting": "Please wait"
   },
+  "custom_button_class": "",
   "button_loading_text": "Please wait",
   "button_connect_text": "Connect Wallet",
   "button_disconnect_text": "Disconnect",
